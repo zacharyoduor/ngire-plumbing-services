@@ -21,7 +21,7 @@ whatsappLink.addEventListener('mouseout', () => {
 });
 
 document.getElementById("email").addEventListener("click", function () {
-    window.location.href = "mailto:your-email@example.com?subject=Let's%20Chat&body=Hi,%20I%20would%20like%20to%20connect!";
+    window.location.href = "mailto:salimmorgan09@gmail.com?subject=Let's%20Chat&body=Hi,%20I%20would%20like%20to%20connect!";
 });
 
 
